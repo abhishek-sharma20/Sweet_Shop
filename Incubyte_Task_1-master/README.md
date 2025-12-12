@@ -114,7 +114,4 @@ Frontend runs on: http://localhost:5173
 ![Restock Sweet](screenshots/RestockKajuKatli.jpeg)
 
 - Rest of the Screenshots are attached in screenshots folder
-## Author
 
-Preksha Divraniya  
-This project is built as part of the Incubyte TDD Kata Assessment.
