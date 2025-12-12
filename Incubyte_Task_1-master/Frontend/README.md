@@ -40,7 +40,4 @@ It communicates with the Spring Boot backend through REST APIs.
 ├── package.json
 ├── README.md
 ```
-## Author
 
-Preksha Divraniya  
-This project is built as part of the Incubyte TDD Kata Assessment.
